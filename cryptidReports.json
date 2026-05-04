@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bfro-michigan-summary",
+    "name": "BFRO Michigan County-Level Hotspot",
+    "locationText": "Michigan, United States",
+    "latitude": 44.3148,
+    "longitude": -85.6024,
+    "sourceName": "BFRO Geographical Database",
+    "sourceUrl": "https://www.bfro.net/GDB/state_listing.asp?state=mi",
+    "category": "bigfoot-county-summary",
+    "confidence": "low",
+    "note": "Use as a report/folklore heatmap layer only. Do not claim creature verification. Ingest only with permission or manual curation."
+  }
+]

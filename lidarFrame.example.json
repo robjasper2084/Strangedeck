@@ -1,0 +1,12 @@
+{
+  "capturedAt": "2026-05-02T21:10:00Z",
+  "deviceModel": "iPhone Pro LiDAR / simulated",
+  "mode": "sls-skeleton",
+  "width": 16,
+  "height": 12,
+  "sampledDepthMeters": [1.2, 1.3, 1.35, 1.44, 1.6, 1.8, 2.1, 2.4, 2.2, 2.0, 2.1, 2.3],
+  "meshSummary": {
+    "vertices": 624,
+    "faces": 1180
+  }
+}

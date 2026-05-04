@@ -1,0 +1,58 @@
+[
+  {
+    "id": "aaro-pr-018-europe-2024",
+    "title": "AARO PR-018 Unresolved UAP Report",
+    "sourceName": "AARO Official UAP Imagery",
+    "sourceUrl": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+    "observedAt": "2024-01-01T00:00:00Z",
+    "locationText": "Europe, generalized",
+    "status": "official-unresolved",
+    "summary": "Official unresolved AARO UAP imagery entry. Public coordinates are not provided; use as a generalized research pin.",
+    "mediaUrls": [],
+    "officialCase": true,
+    "confidence": "official",
+    "possibleExplanations": []
+  },
+  {
+    "id": "aaro-pr-016-birds-europe-2023",
+    "title": "AARO PR-016 Resolved as Birds",
+    "sourceName": "AARO Official UAP Imagery",
+    "sourceUrl": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+    "observedAt": "2023-01-01T00:00:00Z",
+    "locationText": "Europe, generalized",
+    "status": "official-resolved",
+    "summary": "Official AARO case assessed as almost certainly birds. Public coordinates are not provided; use as a generalized research pin.",
+    "mediaUrls": [],
+    "officialCase": true,
+    "confidence": "official",
+    "possibleExplanations": [
+      {
+        "type": "bird",
+        "confidence": "official",
+        "reason": "Official AARO assessment.",
+        "sourceId": "aaro-cases"
+      }
+    ]
+  },
+  {
+    "id": "aaro-pr-010-balloon-europe-2022",
+    "title": "AARO PR-010 Resolved as Balloon",
+    "sourceName": "AARO Official UAP Imagery",
+    "sourceUrl": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+    "observedAt": "2022-01-01T00:00:00Z",
+    "locationText": "Europe, generalized",
+    "status": "official-resolved",
+    "summary": "Official AARO case assessed as almost certainly a balloon. Public coordinates are not provided; use as a generalized research pin.",
+    "mediaUrls": [],
+    "officialCase": true,
+    "confidence": "official",
+    "possibleExplanations": [
+      {
+        "type": "balloon",
+        "confidence": "official",
+        "reason": "Official AARO assessment.",
+        "sourceId": "aaro-cases"
+      }
+    ]
+  }
+]

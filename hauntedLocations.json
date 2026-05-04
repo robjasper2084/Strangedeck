@@ -1,0 +1,52 @@
+[
+  {
+    "id": "eastern-state-penitentiary",
+    "name": "Eastern State Penitentiary",
+    "locationText": "Philadelphia, Pennsylvania",
+    "latitude": 39.9683,
+    "longitude": -75.1729,
+    "category": "historic-site",
+    "sourceUrl": "https://www.easternstate.org/",
+    "note": "Seed example only. Verify access rules, hours, tour status, and source terms before production use. Label as folklore or visitor-reported, not as proof."
+  },
+  {
+    "id": "rms-queen-mary",
+    "name": "RMS Queen Mary",
+    "locationText": "Long Beach, California",
+    "latitude": 33.7528,
+    "longitude": -118.1905,
+    "category": "historic-ship",
+    "sourceUrl": "https://queenmary.com/",
+    "note": "Seed example only. Verify current public access and source terms before production use."
+  },
+  {
+    "id": "stanley-hotel",
+    "name": "Stanley Hotel",
+    "locationText": "Estes Park, Colorado",
+    "latitude": 40.3837,
+    "longitude": -105.5207,
+    "category": "hotel",
+    "sourceUrl": "https://www.stanleyhotel.com/",
+    "note": "Seed example only. Verify current public access and source terms before production use."
+  },
+  {
+    "id": "eloise-asylum",
+    "name": "Eloise Asylum",
+    "locationText": "Westland, Michigan",
+    "latitude": 42.2929,
+    "longitude": -83.3747,
+    "category": "historic-site",
+    "sourceUrl": "https://theeloiseasylum.com/",
+    "note": "Seed example only. Verify tour availability and public-access rules before production use."
+  },
+  {
+    "id": "the-whitney-detroit",
+    "name": "The Whitney",
+    "locationText": "Detroit, Michigan",
+    "latitude": 42.3433,
+    "longitude": -83.0562,
+    "category": "historic-mansion",
+    "sourceUrl": "https://www.thewhitney.com/",
+    "note": "Seed example only. Verify current public access and source terms before production use."
+  }
+]
